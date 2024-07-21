@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<language culture="am-ET">
+	<area alias="login">
+		<key alias="greeting0">እንኳን ለአላማ የተሟላ እሁድ በሰላም አደረህ</key>
+		<key alias="greeting1">እንኳን ለቀን የተነሳ ሰኞ በሰላም አደረህ</key>
+		<key alias="greeting2">እንኳን ለአላማ የተሟላ ማክሰኞ በሰላም አደረህ</key>
+		<key alias="greeting3">እንኳን ለደናገጥ የተሟላ እሮብ በሰላም አደረህ</key>
+		<key alias="greeting4">እንኳን ለአላማ የተሟላ ሐሙስ በሰላም አደረህ</key>
+		<key alias="greeting5">እንኳን ለቀን የተነሳ አርብ በሰላም አደረህ</key>
+		<key alias="greeting6">እንኳን ለአላማ የተሟላ ቅዳሜ በሰላም አደረህ</key>
+	</area>
+</language>
